@@ -29,3 +29,10 @@ Pods/
 Podfile.lock
 LumberjackUser*.h
 .DS_Store
+
+# vim and emacs
+*.swp
+*.swo
+*~
+\#*\#
+.\#*
