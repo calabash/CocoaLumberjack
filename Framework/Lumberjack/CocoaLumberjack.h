@@ -40,3 +40,6 @@ FOUNDATION_EXPORT const unsigned char CocoaLumberjackVersionString[];
 
 // CLI
 #import <CocoaLumberjack/CLIColor.h>
+
+// Interfaces for specific tools
+#import <CocoaLumberjack/iOSDeviceManagerLogging.h>
